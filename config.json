@@ -1,0 +1,10 @@
+{ 
+    "token": "YOUR_TOKEN",
+    "prefix": "=",
+    "colour": "#33A2FF",
+    "ticketCategoryID": "515126346939105290",
+    "ticketRoleName": "Support",
+    "suggestionChannel": "suggestions",
+    "mutedRoleName": "Muted",
+    "punishLogName": "punishments"
+}

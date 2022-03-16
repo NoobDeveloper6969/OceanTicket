@@ -1,0 +1,13 @@
+{
+    "_COMMENT": "This does nothing; this is where you can set the command names. Commands can only be one argument long, for example you CAN NOT have -ticket new",
+    "newticket": "ticket",
+    "closeticket": "close",
+    "addToTicket": "add",
+    "removeFromTicket": "remove",
+    "setTopic": "topic",
+    "suggest": "suggest",
+    "ban": "ban",
+    "mute": "mute",
+    "unmute": "unmute",
+    "kick": "kick"
+}

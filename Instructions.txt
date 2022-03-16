@@ -1,0 +1,18 @@
+Hi! Thanks for (we hope) purchasing Advanced Ticket Bot!
+
+First of all, our Discord server is the best place for support, so feel free to join here: https://discord.gg/g65H7W8
+
+Before touching the bot at all, you'll want the most recent version of node.js on your computer or VPS. https://nodejs.org/en/
+Install that, then come back here!
+
+After installing node.js, you'll want to extract the files to either your desktop or VPS. These following steps are for a Windows PC, it's easy enough to find the alternatives for Linux.
+
+You'll also need a developers app, which you can create at http://discordapp.com/developers/applications/me. If you're stuck, YouTube will help you. If you're still stuck after that, contact me!
+
+1. Open the bot folder, and select config.json, configure that to your liking. The most important one to change is "token". That needs to be your bot token!
+2. Edit any other settings you might want to edit.
+3. For Windows, I've added a start.bat file. Just double click that, and if you've done the first two steps right, you'll be up and running!
+
+If you do get problems, please contact me via our support server. Please have the error on hand so I can check it out without any messing around.
+
+Any questions can also be asked on our support server!
